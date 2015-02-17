@@ -1,5 +1,6 @@
-# HyperionJS
-Hypermedia API Driven Web GUI
+![](https://s3.amazonaws.com/code_brian/logo.png?X-Amz-Date=20150217T010022Z&X-Amz-Expires=300&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Signature=770d773ebb9c1ecc63d60e9f9e30a384a8dda523633147c60401e218a7bbd70d&X-Amz-Credential=ASIAJIRILDVFV6CO7RAQ/20150217/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=Host&x-amz-security-token=AQoDYXdzECIakALxfAwarCFoGJaQDa2DUpWQDijSGiW%2B7oR8cv13d2b3g6zYDr3PaFB2qauBo/UcVRyQJR3mWAlAnRDmih4Ulvcwg1yUMt/9EvQnlQa/SFqTpV9GP6KDS6B3PteYVXRdQDEkcR0Umua%2BEeUT8OFfzNmNaceCh4PYBlR/OODuuiU3GLfr7KelFJ8pTxHMtde4xH9JthHlE5rFv9DXk8gCoZLYmEbxe4VS1qS9cpXU376U2yPJ2kvRCzRJsNrqk5jOCeR7m2R2LPywUYvrDyk%2BL1BCLmLs%2BD2rG1JRUZkWuZeQElhVhUKfVorW0eaKC3DZT4YMqPplq6GMes7msJtGyDuIVjEUK%2BQSHCjGoxlNbZ%2Bm8SDNpIqnBQ%3D%3D)
+
+## Hypermedia API Driven Web GUI
 
 You should be designing your website on top of an API. Your API should use Hypermedia as the Engine of Application State (HATEOS), because that technology provides a way to remove the unreliable part of making websites, and focus on the components that make a reliable and consistent experience.
 
